@@ -1,4 +1,10 @@
-﻿namespace COMP003A_Assignment1
+﻿/* 
+   Author: Adam Verissimo
+   Course: COMP-003A
+   Faculty: Jonathan Cruz
+   Purpose: COMP003A - Assignment 1
+*/
+namespace COMP003A_Assignment1
 {
     internal class Program
     {
